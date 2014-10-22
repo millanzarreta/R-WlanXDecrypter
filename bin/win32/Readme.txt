@@ -1,8 +1,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 //  R-WlanXDecrypter							      //
 //  Autor: nhaalclkiemr                                                       //
-//  Version: 0.8                                                              //
-//  Fecha: 06/10/2010                                                         //
+//  Version: 0.9                                                              //
+//  Fecha: 11/10/2010                                                         //
 //  Descripcion: R-WlanXDecrypter es un generador de diccionarios de claves   //
 //    por defecto para routers de R, una conocida compañia de Galicia. El     //
 //    programa trae multiples opciones adicionales de personalizacion para    //
@@ -18,4 +18,5 @@
 
 Compilado con GCC version 3.4.5 (mingw-vista special r3)
 
-gcc -Wall R-WlanXDecrypter.c -o R-WlanXDecrypter.exe -lm
+gcc -Wall -lm R-WlanXDecrypter.c -o R-WlanXDecrypter.exe
+

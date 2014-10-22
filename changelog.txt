@@ -1,0 +1,15 @@
+v0.8 [06/10/2010]
+-----------------
+
++Primer lanzamiento publico
+
+
+v0.9 [11/10/2010]
+-----------------
+
++Mostrar tamaño archivo final y numero de claves
++Mostrar status del proceso
++Añadido quiet mode -q
++Corregido bug en las opciones -min y -max
++Pequeña optimización del bucle generador de claves
++Corrección de pequeños fallos generales

@@ -1,7 +1,10 @@
-v0.8 [06/10/2010]
+v1.0 [27/07/2014]
 -----------------
-
-+Primer lanzamiento publico
++Añadida opción -rep <num> que permite que la parte variable se repita <num> veces
++Cambio en el tipo de variables por otros más adecuados
++Corregido el error que mostraba mal el proceso de creación si el diccionario era mayor a 2GB
++Corregido un error que se producia en ocasiones al crear diccionarios hexadecimales y que producia un tamaño de palabra diferente al especificado
++Corrección de varios errores menores
 
 
 v0.9 [11/10/2010]
@@ -13,3 +16,9 @@ v0.9 [11/10/2010]
 +Corregido bug en las opciones -min y -max
 +Pequeña optimización del bucle generador de claves
 +Corrección de pequeños fallos generales
+
+
+v0.8 [06/10/2010]
+-----------------
+
++Primer lanzamiento publico
